@@ -6,3 +6,5 @@ Patterns implementados:
 - Grasp: Creator
 
 -> Créditos de: Augusto Preis
+
+Cara é fera
