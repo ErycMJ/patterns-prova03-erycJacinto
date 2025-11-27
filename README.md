@@ -4,3 +4,5 @@ Patterns implementados:
 - Solid: Letra S
 - Solid 02: Letra 0
 - Grasp: Creator
+
+-> Créditos de: Augusto Preis
